@@ -16,8 +16,8 @@
   <a href="#-design-principles-implemented">
     <img src="https://img.shields.io/badge/-Design%20Principles%20Implemented-purple?style=for-the-badge" alt="Design Principles Implemented">
   </a>
-  <a href="#-why-this-topic-matters-to-me">
-    <img src="https://img.shields.io/badge/-Why%20This%20Topic%20Matters%20to%20Me-yellow?style=for-the-badge" alt="Why This Topic Matters to Me">
+  <a href="#-my-passion-for-creating-this-visualization">
+    <img src="https://img.shields.io/badge/-Why%20This%20Topic%20Matters%20to%20Me-yellow?style=for-the-badge" alt="My Passion for Creating this Visualization">
   </a>
   <a href="#-key-takeaways">
     <img src="https://img.shields.io/badge/-Key%20Takeaways-pink?style=for-the-badge" alt="Key Takeaways">
@@ -88,7 +88,7 @@ I focused on using **Gestalt principles** to create a clear, structured, and eff
 
 ---
 
-## ❤️ Why This Topic Matters to Me
+## ❤️ My Passion for Creating this Visualization
 
 I am particularly passionate about this topic because it sits at the intersection of data analysis and real-world business impact. Understanding customer behavior and optimizing marketing strategies are critical for businesses that want to grow and succeed. This project allowed me to transform raw data into actionable insights that can directly influence business decisions.
 
