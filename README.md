@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-Design%20Principles%20Implemented-purple?style=for-the-badge" alt="Design Principles Implemented">
   </a>
   <a href="#-my-passion-for-creating-this-visualization">
-    <img src="https://img.shields.io/badge/-Why%20This%20Topic%20Matters%20to%20Me-yellow?style=for-the-badge" alt="My Passion for Creating this Visualization">
+    <img src="https://img.shields.io/badge/-My%20Passion%20for%20Creating%20this%20Visualization-yellow?style=for-the-badge" alt="My Passion for Creating this Visualization">
   </a>
   <a href="#-key-takeaways">
     <img src="https://img.shields.io/badge/-Key%20Takeaways-pink?style=for-the-badge" alt="Key Takeaways">
