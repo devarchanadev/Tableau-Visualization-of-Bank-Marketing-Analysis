@@ -13,16 +13,16 @@
   <a href="#-insights--business-impact">
     <img src="https://img.shields.io/badge/-Insights%20%26%20Business%20Impact-red?style=for-the-badge" alt="Insights & Business Impact">
   </a>
-  <a href="#design-principles-implemented">
+  <a href="#-design-principles-implemented">
     <img src="https://img.shields.io/badge/-Design%20Principles%20Implemented-purple?style=for-the-badge" alt="Design Principles Implemented">
   </a>
-  <a href="#why-this-topic-matters-to-me">
+  <a href="#-why-this-topic-matters-to-me">
     <img src="https://img.shields.io/badge/-Why%20This%20Topic%20Matters%20to%20Me-yellow?style=for-the-badge" alt="Why This Topic Matters to Me">
   </a>
-  <a href="#key-takeaways">
+  <a href="#-key-takeaways">
     <img src="https://img.shields.io/badge/-Key%20Takeaways-pink?style=for-the-badge" alt="Key Takeaways">
   </a>
-  <a href="#conclusion">
+  <a href="#-conclusion">
     <img src="https://img.shields.io/badge/-Conclusion-lightblue?style=for-the-badge" alt="Conclusion">
   </a>
 </p>
